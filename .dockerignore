@@ -1,0 +1,15 @@
+.git
+.gitignore
+.env
+.venv
+**/.venv
+**/__pycache__
+**/*.py[cod]
+**/*.db
+*.log
+Dockerfile*
+compose*.yaml
+compose*.yml
+README.md
+start.bat
+plugin
